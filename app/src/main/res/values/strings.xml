@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SymptomChecker</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="age">Age</string>
+    <string name="name">Name</string>
+    <string name="female">Female</string>
+    <string name="transgender">Transgender</string>
+    <string name="next">Next</string>
+    <string name="error_name_empty">Name cannot be empty</string>
+    <string name="error_name_contains_numbers">Name cannot contain numbers</string>
+    <string name="error_gender_unchecked">Please select gender</string>
+    <string name="error_age_invalid">Please enter a valid age</string>
+    <string name="error_age_empty">Please enter value for age</string>
+    <string name="text_or">OR</string>
+    <string name="add_symptom">Add Symptom</string>
+    <string name="add">Add</string>
+    <string name="loading">Loading</string>
+    <string name="error_symptom_empty">Please enter value for symptom</string>
+    <string name="error_symptom_contains_numbers">Symtpom cannot contain numbers</string>
+    <string name="what_would_you_do">What would you do?</string>
+    <string name="see_doctor_immediately">See the doctor immediately</string>
+    <string name="see_doctor_few_days">See the doctor after a few days</string>
+    <string name="dont_see_doctor">Would not see the doctor</string>
+    <string name="why_did_you_choose">Why did you choose the above response?</string>
+    <string name="submit">Submit</string>
+</resources>
